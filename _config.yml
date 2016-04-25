@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5397422
+  brandStrength: 0.4731326
+  lightness: 1
+  rhythmicContrast: 0.3980882
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.2787325
+name: "Jacky's journey"
